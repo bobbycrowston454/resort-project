@@ -1,0 +1,31 @@
+body {
+  margin: 0 auto;
+  max-width: 1100px;
+  text-align: center;
+  font-family: sans-serif;
+}
+
+h1 {
+  font-family: cursive;
+}
+
+p {
+  text-align: center;
+}
+
+ul {
+  list-style: none;
+}
+
+ul li {
+  display: block;
+  text-align: center;
+}
+
+ul li a h2 {
+  font-family: cursive;
+}
+
+a {
+  text-decoration: none;
+}
