@@ -23,8 +23,8 @@ _images and text do not scale well_
 ## Support and contact details
 
 _If you have any questions or comments email us at:_
-  _Caleb: cgrahamstevenson@gmail.com_
-  _Bobby: bobbycrowston454@gmail.com_
+* _Caleb: cgrahamstevenson@gmail.com_
+* _Bobby: bobbycrowston454@gmail.com_
 
 ## Technologies Used
 
