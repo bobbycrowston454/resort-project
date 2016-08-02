@@ -16,6 +16,10 @@ https://github.com/cgrahams/resort-project
 * _Open resort project folder_
 * _Open index.html in the browser of your choosing_
 
+* _OR you can simply visit our GitHub pages sites:_
+  * https://bobbycrowston454.github.io/resort-project/index.html
+  * https://cgrahams.github.io/resort-project/index.html
+
 ## Known Bugs
 
 _images and text do not scale well_
