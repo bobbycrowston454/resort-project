@@ -22,15 +22,15 @@ _images and text do not scale well_
 
 ## Support and contact details
 
-_If you have any questions or comments email us at:
-  Caleb: cgrahamstevenson@gmail.com
-  Bobby: bobbycrowston454@gmail.com_
+_If you have any questions or comments email us at:_
+  _Caleb: cgrahamstevenson@gmail.com_
+  _Bobby: bobbycrowston454@gmail.com_
 
 ## Technologies Used
 
-_git
-  html
-  css_
+_GIT
+  HTML
+  CSS_
 
 ### License
 
